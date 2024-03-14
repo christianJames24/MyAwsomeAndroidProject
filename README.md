@@ -1,0 +1,2 @@
+# MyAwsomeAndroidProject
+yes
